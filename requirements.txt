@@ -1,0 +1,5 @@
+
+streamlit==1.38.0
+pypdf2==3.0.1
+pandas==2.2.2
+openpyxl==3.1.5
